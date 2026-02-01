@@ -8,6 +8,6 @@ I researched, wrote and developed 2 **technological web sites** (https://how-ocr
 
 [Betty Bouckaert](https://betty-bouckaert.be/)
 
-I use **Git/GitHub** to store the source files online.
+I use **Git**/**GitHub** to store the source files online.
 
 You can **e-mail** me at <ivo.vynckier@telenet.be>.
