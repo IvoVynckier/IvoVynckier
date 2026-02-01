@@ -1,7 +1,13 @@
-I’m the Belgian technical writer Ivo Vynckier (@IvoVynckier).
+I’m the Belgian **technical writer Ivo Vynckier** (@IvoVynckier).
 
-I researched, wrote and developed 2 technological web sites (https://how-ocr-works.com and https://spielberg-ocr.com) and 1 artistic web site (https://betty-bouckaert.be).
+I researched, wrote and developed 2 **technological web sites** (https://how-ocr-works.com and https://spielberg-ocr.com) and 1 **artistic web site** (https://betty-bouckaert.be).
 
-I use Git/GitHub to store the source files online.
+[How OCR Works](https://how-ocr-works.com/)
 
-You can e-mail me at ivo.vynckier@telenet.be.
+[Spielberg, Abagnale and OCR](https://spielberg-ocr..com/)
+
+[Betty Bouckaert](https://betty-bouckaert.be/)
+
+I use **Git/GitHub** to store the source files online.
+
+You can **e-mail** me at <ivo.vynckier@telenet.be>.
