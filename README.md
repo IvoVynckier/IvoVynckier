@@ -4,7 +4,7 @@ I researched, wrote and developed 2 **technological web sites** (https://how-ocr
 
 [How OCR Works](https://how-ocr-works.com/)
 
-[Spielberg, Abagnale and OCR](https://spielberg-ocr..com/)
+[Spielberg, Abagnale and OCR](https://spielberg-ocr.com/)
 
 [Betty Bouckaert](https://betty-bouckaert.be/)
 
